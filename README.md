@@ -1,20 +1,21 @@
 ![Badge](https://img.shields.io/badge/DIGITAL%20INNOVATION%20ONE-BB2649?style=for-the-badge)&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" />&nbsp;&nbsp;&nbsp;![Badge](https://img.shields.io/badge/PROJETO-COM%20MENTORIA-FF6F61?style=for-the-badge)&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" />
 
-# Ri Happy - Front-end do Zero | #3 Jogo da Memória
+# Ri Happy - Front-end do Zero #3 | Jogo da Memória
 
 ## 1️⃣ Objetivo
-Desenvolver um Jogo da Memória como forma de praticar e consolidar conceitos fundamentais de CSS e JavaScript.
+Desenvolver um Jogo da Memória como forma de praticar e consolidar conceitos de CSS e JavaScript.
 
 ## 2️⃣ Descrição
 Este projeto foi realizado durante o Bootcamp **Ri Happy - Front-end do Zero**, oferecido pela **Digital Innovation One (DIO)**.
 
-O bootcamp inclui:
+A atividade foi conduzida pelo instrutor **Felipe Aguiar** e envolveu a criação de um jogo da memória, utilizando conceitos de HTML, CSS e JavaScript. O jogo apresenta emojis embaralhados em pares e desafia o jogador a encontrar todas as combinações.
 
-- **Aulas teóricas:** com explicações e exercícios práticos.
-- **Desafios de código:** para aplicar os conceitos ensinados.
-- **Projetos guiados com mentoria:** para enriquecer o portfólio com projetos práticos.
+Entre os conceitos apresentados, vale destacar:
 
-A atividade foi conduzida pelo instrutor **Felipe Aguiar**.
+- **Manipulação do DOM:** Acesso e manipulação dinâmica de elementos HTML;
+- **Randomização:** Uso de <code>sort</code> e <code>Math.random</code> para embaralhar os emojis, garantindo uma distribuição aleatória dos pares em cada partida;
+- **Eventos de Clique:** Detecção de cliques em cada carta com <code>onclick</code>;
+- **Condicional e Verificação de Pares:** Lógica para verificar se as cartas abertas formam um par:
 
 ## 3️⃣ Principais Modificações
 Este projeto foi desenvolvido conforme as orientações do curso, sem alterações adicionais.
@@ -32,7 +33,7 @@ Este projeto foi desenvolvido conforme as orientações do curso, sem alteraçõ
 </div>
 
 ## 5️⃣ Créditos
-Agradeço ao instrutor Felipe Aguiar e à equipe da DIO pelo conteúdo de alta qualidade, que contribuiu demais para o meu aprendizado e para a construção do meu portfólio.
+Agradeço ao instrutor **Felipe Aguiar** e à equipe da **DIO** pelo conteúdo de altíssima qualidade, que contribuiu demais para o meu aprendizado e para a construção do meu portfólio.
 - <a href="https://www.dio.me/" target="_blank">Digital Innovation One | DIO 🔗</a>
 
 ## 6️⃣ Licença
